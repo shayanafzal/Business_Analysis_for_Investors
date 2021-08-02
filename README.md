@@ -69,6 +69,7 @@ A high-level summary is presented below
 
 ### Two Additional Visualizations
 1. Additional data can be gathered in order to analyse the age group that is using the bikes. This would help to determine if such an age group exists in Des Moines. This will also help create a targeted marketing campaign aimed at this group.
+
 2. Further research needs to be done into the number of people who are making relatively long-distance trips on the bike. This may be a different age demographic. They may not be the usual subscribers how use the bikes during the weekday peak hours of morning and evening. Des Moines is smaller than New York. It is very likely the places in Des Moines are not located as close as they are in New York. Hence, this data would really help identify the success rate of this bike-sharing program in Des Moines.
 
 
