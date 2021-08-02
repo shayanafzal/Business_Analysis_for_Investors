@@ -14,7 +14,7 @@ The Tableau data and visuals can be accessed [here](https://public.tableau.com/a
 
 ## Results
 ### Checkout Times for Users
-The checkout times for most rides is between 0 and 20 min. The number of bikes out on rides decreases as the trip duration increases from 5 minutes onwards. 
+The checkout times for most rides is between 0 and 20 min. The number of bikes out on rides decreases as the trip duration increases from 5 minutes onwards.
 ![Checkout Times for Users](https://github.com/shayanafzal/bikesharing/blob/a8ec4987eba01a0033c890df7540229d8cc9eee8/Resources/Checkout%20Times%20for%20Users.png)
 
 ### Checkout Times by Gender
@@ -23,11 +23,11 @@ This grab displays the same results as the last one, except his has also been br
 
 
 ### Trips by Weekday for Each Hour
-Looking at the data we can see that the busiest times are between 8 am and 9 am. And between 5 am and 7 pm. Thursday is the busiest weekday. On the weekend, Saturday is busier than Sunday. 
+Looking at the data we can see that the busiest times are between 8 am and 9 am. And between 5 am and 7 pm. Thursday is the busiest weekday. On the weekend, Saturday is busier than Sunday.
 ![Trips by Weekday for Each Hour](https://github.com/shayanafzal/bikesharing/blob/a8ec4987eba01a0033c890df7540229d8cc9eee8/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 ### Trips by Gender 
-Males tend to use the bikes more so than females . Looking the visual is evident that this is true during the weekdays as well as the weekends. A relatively small number of people fall into the unknown gender category. This unknown variable isn’t large enough to change the overall tend of males using the bikes more so them females. 
+Males tend to use the bikes more so than females . Looking the visual is evident that this is true during the weekdays as well as the weekends. A relatively small number of people fall into the unknown gender category. This unknown variable isn’t large enough to change the overall tend of males using the bikes more so them females.
 ![Trips by Gender](https://github.com/shayanafzal/bikesharing/blob/a8ec4987eba01a0033c890df7540229d8cc9eee8/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 ### Trips by Gender by Weekday
