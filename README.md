@@ -32,9 +32,9 @@ Those falling into the subscriber category used the bikes more so than those fal
 The total number of rides is 2,344,224
 
 ### Gender Breakdown
-Male – 1530K
-Female – 588K
-Unknown – 225K
+* Male – 1530K
+* Female – 588K
+* Unknown – 225K
 
 ### Top Starting Locations & Top Ending Locations
 For the most part the top starting locations are the same as the top end locations, meaning that the riders pick up and drop of the bikes at the same location. Furthermore, one can see that bike are used more so in densely populated areas. 
