@@ -48,7 +48,7 @@ The total number of rides is 2,344,224
 * Male – 1530K
 * Female – 588K
 * Unknown – 225K
-* 
+
 ![Gender Breakdown](https://github.com/shayanafzal/bikesharing/blob/a8ec4987eba01a0033c890df7540229d8cc9eee8/Resources/Gender%20Breakdown.png)
 
 ### Top Starting Locations & Top Ending Locations
