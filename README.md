@@ -15,6 +15,7 @@ The Tableau data and visuals can be accessed [here](https://public.tableau.com/a
 ## Results
 ### Checkout Times for Users
 The checkout times for most rides is between 0 and 20 min. The number of bikes out on rides decreases as the trip duration increases from 5 minutes onwards.
+
 ![Checkout Times for Users](https://github.com/shayanafzal/bikesharing/blob/a8ec4987eba01a0033c890df7540229d8cc9eee8/Resources/Checkout%20Times%20for%20Users.png)
 
 ### Checkout Times by Gender
