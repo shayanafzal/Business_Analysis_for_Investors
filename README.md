@@ -10,7 +10,7 @@ This analysis aims to convince investors the bike-sharing program in Des Moines 
 The aforementioned visuals have been combined with other to create a final presentation and analysis to pitch to investors. 
 
 ### Tableau
-The Tableau data and visuals can be accessed here
+The Tableau data and visuals can be accessed [here](https://public.tableau.com/app/profile/a1766/viz/Citibike_Challenge_16278400412780/CitiBikeStory).
 
 ## Results
 ### Checkout Times for Users
